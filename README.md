@@ -117,24 +117,7 @@ The SQL analysis can help organizations understand:
 3. Execute the script to create the database and tables.
 4. Open `advanced_queries.sql`.
 5. Execute the queries to perform the analysis.
-   ## 📊 SQL Analysis Results
-
-### 1. Employees Above Average Salary
-01_employees_above_average_salary.png
-
-### 2. Average Salary by Department
-02_department_average_salary(1)
-
-
-### 3. Highest Paid Employee by Department
-03_highest_paid_employee_by_department -
-
-### 4. Employee Salary Ranking
-04_employee_salary_ranking
-
-### 5. Employee-Manager Salary Analysis
-05_employee_manager_salary
-
+   
 ## 👩‍💻 Author
 
 Faiza
